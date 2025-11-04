@@ -1,3 +1,6 @@
+Imagem no DockerHub:
+docker pull ivanaugustineli/fullcycle:latest
+
 Desafio:
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
@@ -20,3 +23,4 @@ Imagem está com 135kb. Comandos utilizado para subir a imagem:
 1 - docker build -t ivanaugustineli/fullcycle . 
 2 - docker images 
 3 - docker run --rm -d ivanaugustineli/fullcycle
+
